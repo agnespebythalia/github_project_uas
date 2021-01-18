@@ -1,3 +1,4 @@
-# github_project_uas
+NAMA    : AGNES PEBY THALIA       
+NIM     : 18.12.0708
 
-AGNES PEBY THALIA       18.12.0708
+# github_project_uas
